@@ -1,11 +1,11 @@
 <h1 align="center"> Programmo, quindi esisto. 👨‍💻 </h1>
  <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%91%8B+Hi,+I'm+Ifeoluwa+Adebayo;Passionate+Problem+Solver;👩‍💻+++Full-Stack+Developer;Software+Engineer;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%91%8B+Hi,+I'm+Jehoshaphat+Martins;Passionate+Problem+Solver;👩‍💻+++Front-End+Developer;Software+Engineer;Freelancer;Open-Source+Enthusiast" alt="Headline" />
  </div>
 
  <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=techlord05&label=Profile%20views&color=0e75b6&style=flat" alt="techlord05" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thesongmartins&label=Profile%20views&color=0e75b6&style=flat" alt="thesongmartins" /></p>
 
 <p align="left"> <a href="https://twitter.com/thesongmartins" target="blank"><img src="https://img.shields.io/twitter/follow/_techlord?logo=twitter&style=for-the-badge" alt="techlord" /></a> </p>
 
@@ -17,9 +17,9 @@
 
 - 💬 Currently part of **The 100 days of ALXSE challenge**
 
-- 👯 I'm looking to collaborate on open source projects and frontend application development.
+- 👯 I want to collaborate on open-source projects and frontend application development.
 
-- 🙇‍♀️ I'm a christian and a lover of God.
+- 🙇‍♀️ I'm a Christian and a lover of God.
 
 - 📫 My Email: **martinsjehoshaphat@gmail.com**
 
