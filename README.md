@@ -56,8 +56,10 @@
   <img loading="lazy" height="40" width="40" title="Ubuntu" src="https://cdn.simpleicons.org/ubuntu/E95420" alt="Ubuntu icon" />
   <img loading="lazy" height="40" width="40" title="Nginx" src="https://cdn.simpleicons.org/nginx/009639" alt="Nginx icon" />
   <img loading="lazy" height="40" width="40" title="MySQL" src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL icon" />
- <img loading="lazy" height="40" width="40" title="Puppet" src="https://cdn.simpleicons.org/puppet/FFAE1A" alt="Puppet icon" /> 
-  <img loading="lazy" height="40" width="40" title="Puppet" src="https://icons8.com/icon/p57acgidi9bj/react-native" alt="Puppet icon" /> 
+  <img loading="lazy" height="40" width="40" title="Puppet" src="https://cdn.simpleicons.org/puppet/FFAE1A" alt="Puppet icon" /> 
+  <img loading="lazy" height="40" width="40" title="Puppet" src="https://cdn.simpleicons.org/react/FFAE1A" alt="Puppet icon" /> 
+ 
+  
 </p>
 
 <br>
