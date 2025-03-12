@@ -1,6 +1,6 @@
 <h1 align="center"> Yo programo luego existo. 👨‍💻 </h1>
  <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%91%8B+Hi,+I'm+Jehoshaphat+Martins;Passionate+Problem+Solver;👩‍💻+++Front-End+Developer;Software+Engineer;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%91%8B+Hi,+I'm+Song+Martins;Passionate+Problem+Solver;👩‍💻+++Front-End+Engineer;Software+Engineer;Freelancer;Open-Source+Enthusiast" alt="Headline" />
  </div>
 
 <p align="left">
