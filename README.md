@@ -49,7 +49,6 @@
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-   ![Appwrite](https://img.shields.io/badge/Appwrite-CC6678?style=for-the-badge&logo=appwrite&logoColor=white)
    ![Jest](https://img.shields.io/badge/Jest-C80698?style=for-the-badge&logo=jest&logoColor=white)
   
 </div>
