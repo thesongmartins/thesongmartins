@@ -34,14 +34,14 @@
 </p>
 
 <div align="center">
-<h1 align="left">Languages & Tools</h1>
+<h3 align="left">Languages & Tools</h3>
   
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-   ![C](https://img.shields.io/badge/C-34796B?style=for-the-badge&logo=C&logoColor=61DAFB)
-    ![Python](https://img.shields.io/badge/Python-34106B?style=for-the-badge&logo=Python&logoColor=93DAFB)
+  ![C](https://img.shields.io/badge/C-34796B?style=for-the-badge&logo=C&logoColor=61DAFB)
+  ![Python](https://img.shields.io/badge/Python-34106B?style=for-the-badge&logo=Python&logoColor=93DAFB)
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -50,22 +50,19 @@
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-   ![Jest](https://img.shields.io/badge/Jest-C80698?style=for-the-badge&logo=jest&logoColor=white)
+  ![Jest](https://img.shields.io/badge/Jest-C80698?style=for-the-badge&logo=jest&logoColor=white)
   
 </div>
 
 <br>
 
 <h3 align=left>My GitHub Stats</h3>
- <p align="left">
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thesongmartins&show_icons=true&theme=gruvbox)
-</p>
 
 <p align="left">
    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thesongmartins&layout=compact&langs_count=8&theme=algolia" alt="Song Martins" />
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thesongmartins&theme=algolia&show_icons=true&count_private=true&hide_title=true)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thesongmartins&show_icons=true&theme=gruvbox)
 
 ## Stargazers
 
