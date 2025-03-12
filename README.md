@@ -13,7 +13,7 @@
 
 - 👩‍💻 Full stack developer (in the making)
 
-- 🔭 I just concluded my Final [**Portfolio Project**](https://github.com/Pcosby5/DaaviSpecial-backend/)
+- 🔭 I just concluded my Final [**Portfolio Project**](https://github.com/thesongmartins/Re-Flect)
 
 - 💬 Currently part of **The 100 days of ALXSE challenge**
 
@@ -41,17 +41,12 @@
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
    ![C](https://img.shields.io/badge/C-34796B?style=for-the-badge&logo=C&logoColor=61DAFB)
     ![Python](https://img.shields.io/badge/Python-34106B?style=for-the-badge&logo=Python&logoColor=93DAFB)
-   ![Bootstrap](https://img.shields.io/badge/Bootstrap-90232A?style=for-the-badge&logo=Bootstrap&logoColor=61DAFB)
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-  ![Chart.js](https://img.shields.io/badge/Chart.js-68790D?style=for-the-badge&logo=Chart.js&logoColor=61DAFB)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
    ![Appwrite](https://img.shields.io/badge/Appwrite-CC6678?style=for-the-badge&logo=appwrite&logoColor=white)
