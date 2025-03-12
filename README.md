@@ -34,7 +34,7 @@
 </p>
 
 <div align="center">
-<h1>Languages & Tools</h1>
+<h1 align="left">Languages & Tools</h1>
   
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -58,7 +58,7 @@
 
 <h3 align=left>My GitHub Stats</h3>
  <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thesongmartins&theme=algolia" alt="thesongmartins" />
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thesongmartins&show_icons=true&theme=gruvbox)
 </p>
 
 <p align="left">
