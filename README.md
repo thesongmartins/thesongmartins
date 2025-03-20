@@ -72,6 +72,8 @@
 </div>
 
 <div align=left>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thesongmartins&theme=gruvbox" alt="thesongmartins" />
  
  ![Top languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thesongmartins&layout=compact&langs_count=8&theme=gruvbox)
  
