@@ -73,6 +73,8 @@
 
 <div align=left>
 
+ <img src="https://streak-stats.demolab.com?user=thesongmartins&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=6" height="180" alt="streak graph"  />
+
  
  ![Top languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thesongmartins&layout=compact&langs_count=8&theme=gruvbox)
  
