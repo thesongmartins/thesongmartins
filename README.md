@@ -37,7 +37,7 @@
 
 - 😂 Here is a random joke that'll make you laugh!
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=gruvbox&borderColor=white)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=merko&borderColor=white)
 
 ### Connect with me
 <div align="left">
@@ -73,12 +73,12 @@
 
 <div align=left>
 
- <img src="https://streak-stats.demolab.com?user=thesongmartins&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=6" height="180" alt="streak graph"  />
-
- 
- ![Top languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thesongmartins&layout=compact&langs_count=8&theme=gruvbox)
- 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thesongmartins&show_icons=true&theme=gruvbox)
+ ![Song's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thesongmartins&show_icons=true&theme=dark#gh-dark-mode-only)[](https://github.com/thesongmartins/github-readme-stats#gh-dark-mode-only)
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=thesongmartins&theme=dark&hide_border=false)
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thesongmartins&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
  
 </div>
 
