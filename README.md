@@ -23,9 +23,9 @@
 
  ### About Me
 
-- 👩‍💻 Full stack developer (in the making)
+- 👩‍💻 Full-stack developer (in the making)
 
-- 🔭 I just concluded my Final [**Portfolio Project**](https://github.com/thesongmartins/Re-Flect)
+- 🔭 I just concluded my Final [**Portfolio Project**](https://songmartins.vercel.app/)
 
 - 💬 Currently part of **The 100 days of ALXSE challenge**
 
